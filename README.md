@@ -12,6 +12,8 @@ This script may or may not beplug-and-play with whatever framework you are using
 
 
  ## Preview
+![image](https://github.com/JoeSzymkowiczFiveM/qb-deliveryjob/assets/70592880/7b050ada-7e3a-4fcd-b68a-77d98af8389d)
+![image](https://github.com/JoeSzymkowiczFiveM/qb-deliveryjob/assets/70592880/bb3c4390-6242-4263-8c68-5655268c8a54)
 
 
 ## Discord
