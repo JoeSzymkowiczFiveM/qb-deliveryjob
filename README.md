@@ -8,7 +8,7 @@ This script may or may not be plug-and-play with whatever framework/server you a
 
 ### Features
  - Deliver items to locations in the specified amount of time to get paid
- - Phone app integration, via [my version of qb-phone](https://github.com/JoeSzymkowiczFiveM/qb-phone)
+ - Phone app integration, via [my qb-phone](https://github.com/JoeSzymkowiczFiveM/qb-phone)
 
 
  ## Preview
